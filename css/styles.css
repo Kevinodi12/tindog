@@ -46,6 +46,14 @@ p {
     color: #8f8f8f
 }
 
+
+@media (max-width:1028px) {
+    p {
+       font-size: 1.6rem;
+    }
+    
+}
+
 /*Navigation Bar*/
 
 .navbar {
